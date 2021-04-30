@@ -1,0 +1,10 @@
+{
+  "Nickname": "Harvest Those Mammoth Tusks",
+  "Visibility": "Visible",
+  "OneLineDescription": "Synthesis patcher for Harvest Those Mammoth Tusks",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Harvest Those Mammoth Skulls.esp"
+  ]
+}
