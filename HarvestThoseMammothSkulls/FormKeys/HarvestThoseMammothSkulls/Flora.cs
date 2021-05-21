@@ -1,4 +1,5 @@
-﻿using Mutagen.Bethesda.Skyrim;
+﻿using Mutagen.Bethesda.Plugins;
+using Mutagen.Bethesda.Skyrim;
 
 namespace Mutagen.Bethesda.FormKeys.SkyrimSE
 {
